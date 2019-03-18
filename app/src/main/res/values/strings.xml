@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="settings">настройки</string>
+    <string name="notes">Записная книжка</string>
+    <string name="skull">черепушка 2</string>
+    <string name="first">черепушка 1</string>
+    <string name="spinner">спиннер</string>
+    <string name="checkboxes">чекбоксы</string>
+    <string name="calendar">календарь</string>
+    <string name="editgroup">подписка</string>
+    <string name="photo">вечная весна</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+    <string name="begin_time">Дата-время старта задачи:</string>
+    <string name="end_time">Дата-время окончания задачи:</string>
+    <string name="ok_btn">ОК</string>
+
+
+    <string name="inputMoney">Ввод денег</string>
+    <string name="inputInfo">Информация об оплате</string>
+    <string name="btnOK">Ок</string>
+    <string name="bankCardChkBx">С банковской карты</string>
+    <string name="mobilePhoneChkBx">С мобильного телефона</string>
+    <string name="cashAddressChkBx">Наличными по адресу</string>
+
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="save_btn">сохранить</string>
+    <string name="save_message">данные сохранены</string>
+</resources>
